@@ -7,7 +7,7 @@ This project classifies Amazon Food Reviews into two categories based on their c
 # Instructions
 
 ## Pre-requisites
-- Python>= 3.5 <= 3.8 X64 (necessary to user Tensorflow)
+- Python>= 3.5 <= 3.8 X64 (necessary to use Tensorflow)
 
 ## Setup
 ### Virtual Environment
@@ -30,7 +30,7 @@ This project classifies Amazon Food Reviews into two categories based on their c
 ## Author
 * **Daniel Elias Becerra** [DanElias](https://github.com/DanElias)
 
-## Licence
-This project is under the License (MIT)
+## License
+This project can be used only for private use. No one can make profit out of this project.
 
 
