@@ -1,0 +1,10 @@
+.env
+
+.vscode
+
+data/amazon_reviews.csv
+data/amazon_reviews.csv
+data/kelloggs_reviews_test_unlabelled.csv
+data/kelloggs_reviews_unlabelled.csv
+data/tweets.csv
+data/reviews_Grocery_and_Gourmet_Food_5.json
