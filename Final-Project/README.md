@@ -1,4 +1,13 @@
+# Amazon Food Reviews Classification for an Intrinsic and Extrinsic Product Quality Assesment
+
+This project classifies Amazon Food Reviews into two categories based on their contents;
+- Intrinsic: if the review talks about food attributes that are inherent to the product itself and cannot be manipulated without affecting its physical properties (e.g. color, taste, smell).
+- Extrinsic: if the review talks about attributes that are not physically a part of a product (e.g. advertising, brand image).
+
 # Instructions
+
+## Pre-requisites
+- Python>= 3.5 <= 3.8 X64 (necessary to user Tensorflow)
 
 ## Setup
 ### Virtual Environment
@@ -11,6 +20,17 @@
 - Return to the main directory and to install the required libraries in your virtualenv run:
     ```pip install -r requirements.txt```
 
+## Used Tools and Libraries
+- Check the file: requirements.txt
+
 ## Running the project
 - Just type:
     ```python app.py```
+
+## Author
+* **Daniel Elias Becerra** [DanElias](https://github.com/DanElias)
+
+## Licence
+This project is under the License (MIT)
+
+
